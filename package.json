@@ -1,0 +1,23 @@
+{
+  "name": "web_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "eject": "vuepress eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-theme-meteorlxy": "^1.7.1"
+  },
+  "devDependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-mark": "^3.0.0",
+    "markdown-it-emoji": "^1.4.0"
+  }
+}
