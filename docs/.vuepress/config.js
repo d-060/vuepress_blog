@@ -2,7 +2,7 @@
 
 module.exports = {
   // Title of your website
-  title: '<Web>Blog</web>',
+  title: 'WEB活 日記',
 
   // Description of your website
   description: 'This is my web_blog',
