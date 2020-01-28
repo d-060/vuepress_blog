@@ -16,8 +16,9 @@
     "vuepress-theme-meteorlxy": "^1.7.1"
   },
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.2.0",
     "markdown-it": "^8.4.2",
-    "markdown-it-mark": "^3.0.0",
-    "markdown-it-emoji": "^1.4.0"
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-mark": "^3.0.0"
   }
 }
