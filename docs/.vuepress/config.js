@@ -6,6 +6,7 @@ module.exports = {
 
   // Description of your website
   description: 'This is my web_blog',
+  ga: 'UA-157125969-1',
 
   markdown: {
     linkify: true,
