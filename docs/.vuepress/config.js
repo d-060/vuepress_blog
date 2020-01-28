@@ -14,6 +14,10 @@ module.exports = {
     ]
   ],
 
+  head: [
+    ['link', { href: '/assets/css/style.css', rel: 'stylesheet'}]
+  ],
+
   markdown: {
     linkify: true,
     config: md => {
@@ -142,4 +146,8 @@ module.exports = {
       posts: true,
     },
   },
+
+
+
+
 }
