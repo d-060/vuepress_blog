@@ -61,14 +61,14 @@ module.exports = {
 
         // Twitter account and link
         twitter: {
-          account: 'meteorlxy_cn',
-          link: 'https://twitter.com/meteorlxy_cn',
+          account: 'net09953658',
+          link: 'https://twitter.com/net09953658',
         },
 
         // Instagram account and link
         instagram: {
-          account: 'meteorlxy.cn',
-          link: 'https://www.instagram.com/meteorlxy.cn',
+          account: 'painter_animals',
+          link: 'https://www.instagram.com/painter_animals',
         },
 
       },
